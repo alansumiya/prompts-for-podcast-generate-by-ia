@@ -45,7 +45,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via gemini
-- Audio gerado pela elevenLabs
+- Áudio gerado pela elevenLabs
 - Copilot Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
